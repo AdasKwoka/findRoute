@@ -1,0 +1,14 @@
+{
+  "data": {
+    "CAN": "US",
+    "US": "US",
+    "MEX": "US",
+    "BLZ": "MEX",
+    "GTM": "MEX",  
+    "SLV": "GTM",
+    "HND": "GTM",
+    "NIC": "HND",
+    "CRI":  "NIC",
+    "PAN": "CRI"
+  }
+}
